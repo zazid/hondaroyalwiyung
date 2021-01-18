@@ -1,6 +1,3 @@
-Thanks for downloading this template!
-
-Template Name: Sailor
-Template URL: https://bootstrapmade.com/sailor-free-bootstrap-theme/
+Template Name: Furismatic
 Author: BootstrapMade.com
 License: https://bootstrapmade.com/license/
